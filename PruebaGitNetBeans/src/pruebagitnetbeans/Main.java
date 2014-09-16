@@ -8,7 +8,7 @@ package pruebagitnetbeans;
 
 /**
  *
- * @author 2ºDam
+ * @author 2ºDAM
  */
 public class Main {
 
